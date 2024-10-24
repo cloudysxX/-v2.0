@@ -1,0 +1,20 @@
+{
+  "name": "CloudysxX-Bot-Main",
+  "version": "1.0.0",
+  "description": "Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.17.2",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "buzzk": "^1.11.1",
+    "g4f": "^1.4.6",
+    "cron": "^3.1.7",
+    "fs": "0.0.1-security"
+  }
+}
